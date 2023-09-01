@@ -5,6 +5,8 @@
     font-style: normal;
 }
 * {
+    user-select: none;
+    draggable: false;
     margin: 0;
     top: 0;
     font-family: 'poppins';
